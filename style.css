@@ -286,10 +286,6 @@ main section h2 {
     transition   : transform 0.3s;
 }
 
-.t-box:hover {
-    transform: scale(1.1);
-}
-
 .num {
     display            : inline-block;
     font-size          : 7rem;
@@ -360,10 +356,6 @@ main section h2 {
 .faq-box h3 {
     font-size  : 1.4rem;
     font-weight: 550;
-}
-
-.faq-box:hover {
-    background-color: #414141;
 }
 
 .inner-email {
@@ -532,3 +524,4 @@ footer>div {
         flex-direction: column;
     }
 }
+
