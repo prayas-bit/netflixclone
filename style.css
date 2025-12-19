@@ -380,22 +380,22 @@ footer>div {
     padding-top: 50px;
 }
 
-.footer-links p {
+.footer p {
     font-size: 1.1rem;
 }
 
-.footer-link {
+.footer {
     list-style           : none;
     display              : grid;
     grid-template-columns: repeat(4, 1fr);
     gap                  : 12px;
 }
 
-.footer-link li a {
+.footer li a {
     color    : white;
     font-size: 0.8rem;
 }
-.footer-link li a:active {
+.footer li a:active {
     color    : red;
     
 }
@@ -532,3 +532,4 @@ footer>div {
         flex-direction: column;
     }
 }
+
