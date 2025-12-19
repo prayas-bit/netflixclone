@@ -455,7 +455,7 @@ footer>div {
     }
 
 
-    .footer-link li a {
+    .footer li a {
         font-size: 1.1rem;
     }
 
@@ -532,5 +532,6 @@ footer>div {
         flex-direction: column;
     }
 }
+
 
 
