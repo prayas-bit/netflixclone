@@ -10,7 +10,7 @@
 
 <img src="./Imges/netflixss.png" alt="Netflix Clone Preview" width="800px">
 
-[Live Demo](netflixclone-prayas.vercel.app) 
+[Live Demo](https://netflixclone-prayas.vercel.app/) 
 
 </div>
 ---
