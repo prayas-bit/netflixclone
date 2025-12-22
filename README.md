@@ -8,27 +8,11 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-<img src="./Imges/screenshot.png" alt="Netflix Clone Preview" width="800px">
+<img src="./Images/netflixss.png" alt="Netflix Clone Preview" width="800px">
 
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
+[Live Demo](https://netflixclone-b42h.vercel.app/) 
 
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [About The Project](#about-the-project)
-- [Features](#features)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## 🎯 About The Project
