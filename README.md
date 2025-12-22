@@ -129,7 +129,7 @@ Deploy to any static hosting service:
 <div align="center">
 
 ### 🖥️ Desktop View
-![Desktop Screenshot](,/Imges/netflixss.png)
+![Desktop Screenshot](/Imges/netflixss.png)
 
 ### 📱 Mobile View
 ![Mobile Screenshot](./Imges/netflixmobss.png)
