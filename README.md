@@ -8,7 +8,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-<img src="./Images/netflixss.png" alt="Netflix Clone Preview" width="800px">
+<img src="./Imges/netflixss.png" alt="Netflix Clone Preview" width="800px">
 
 [Live Demo](https://netflixclone-b42h.vercel.app/) 
 
@@ -129,10 +129,10 @@ Deploy to any static hosting service:
 <div align="center">
 
 ### 🖥️ Desktop View
-![Desktop Screenshot](./Imges/desktop-view.png)
+![Desktop Screenshot](.Imges/netflixss.png)
 
 ### 📱 Mobile View
-![Mobile Screenshot](./Imges/mobile-view.png)
+![Mobile Screenshot](./Imges/netflixmobss.png)
 
 ### 🎯 Interactive Elements
 ![Hover Effects](./Imges/hover-effects.gif)
